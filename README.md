@@ -1,3 +1,3 @@
 # Machine_Learning
 
-### *** From today ownards I will learn daliy about machine learning***
+### *** From today ownards I will learn daily about machine learning***
